@@ -1,7 +1,7 @@
 {
   "name": "@windypear/koishi-plugin-muteme",
   "description": "让机器人禁言你！多种禁言模式！",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -13,6 +13,10 @@
     "WindyPear-Team <fireguo@flweb.cn>"
   ],
   "license": "MIT",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindyPear-Team/koishi-plugin-muteme.git"
+  },
   "keywords": [
     "muteme",
     "禁言",
